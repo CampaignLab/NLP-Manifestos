@@ -9,5 +9,5 @@
 ### Proposed technology stacks
 - .Net (ML.Net Package) 
   https://dotnet.microsoft.com/en-us/learn/ml-dotnet/get-started-tutorial/install
-  - Pros: Only require dataset without in-depth algorithmn knowledge. 
+  - Pros: Only require dataset without in-depth ML algorithmn knowledge. (Model builder will take care of it)
     
