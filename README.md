@@ -11,3 +11,5 @@
   https://dotnet.microsoft.com/en-us/learn/ml-dotnet/get-started-tutorial/install
   - Pros: Only require dataset without in-depth ML algorithmn knowledge. (Model builder will take care of it)
     
+### References
+- Hands-on ML.Net tutorial https://learn.microsoft.com/en-us/training/modules/predictive-maintenance-model-builder/5-exercise-train-model-builder
