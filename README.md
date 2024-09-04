@@ -13,3 +13,4 @@
     
 ### References
 - Hands-on ML.Net tutorial https://learn.microsoft.com/en-us/training/modules/predictive-maintenance-model-builder/5-exercise-train-model-builder
+- Microsoft Repo https://github.com/dotnet/machinelearning-samples/
